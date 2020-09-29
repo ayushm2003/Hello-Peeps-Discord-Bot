@@ -1,4 +1,4 @@
-# Discord bot which does some simple tasks and Toonify.
+# Discord bot which does supports simple tasks and Toonify.
 
 '''
 Toonify links - 
